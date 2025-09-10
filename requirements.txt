@@ -3,3 +3,7 @@ urllib3
 requests
 pandas
 numpy
+seaborn
+scipy
+seaborn
+scipy
